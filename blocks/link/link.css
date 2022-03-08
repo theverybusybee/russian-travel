@@ -1,0 +1,13 @@
+.link {
+  color: #fff;
+  cursor: pointer;
+}
+
+.link:hover {
+  opacity: 0.5;
+  transition: opacity 0.5s ease 0s;
+}
+
+.footer__link:visited {
+  color: #fff;
+}

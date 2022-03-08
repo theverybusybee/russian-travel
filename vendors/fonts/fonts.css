@@ -7,14 +7,14 @@
 
 @font-face {
   font-family: "Inter";
-  src: url(./Inter/Inter-Bold/Inter-Bold.woff2) format("woff2"),
-    url(./Inter/Inter-Bold/Inter-Bold.woff) format("woff");
+  src: url(./Inter/Inter-Bold/Inter-Bold.woff) format("woff"),
+    url(./Inter/Inter-Bold/Inter-Bold.woff2) format("woff2");
   font-weight: 700;
 }
 
 @font-face {
   font-family: "Inter";
   src: url(./Inter/Inter-Black/Inter-Black.woff2) format("woff2"),
-    url(./Inter/Inter-Black/Inter-Black.woff2) format("woff2");
+    url(./Inter/Inter-Black/Inter-Black.woff) format("woff");
   font-weight: 900;
 }
