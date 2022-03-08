@@ -4,8 +4,9 @@
   list-style: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  grid-template-rows: auto;
   justify-items: center;
-  gap: 16px;
+  gap: 16px 16px;
   margin: 0 auto;
   max-width: 1184px;
 }
